@@ -1,0 +1,4 @@
+Problem 2 Main File
+
+int [] a = new int [] {3, 10, 2, 15, 5, 7};
+mergeSort (a, 6);

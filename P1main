@@ -1,0 +1,4 @@
+Problem 1 Main File
+
+int [] a = new int [] {300, 12, 160, 4000, 3, 5513, 860};
+Problem1Sort(a, 7);
